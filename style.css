@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("pattern1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.display{
+    font-family: 'Nerko One', cursive;
+  
+  
+}
+.clock{
+    background: #34d8eb;
+    width:500px;
+    height:300px;
+    margin: 100px auto;
+    padding:30px;
+ 
+   
+
+}
+.display{
+    background:#90f1fc;
+    text-align: center;
+    font-size: 55px;
+    height:60%;
+    padding-top:115px;
+ 
+}
+h4{
+    font-size: 25px;
+}
